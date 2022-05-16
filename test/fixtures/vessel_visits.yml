@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  voyage_number: MyString
+  total_container_move_count: 1
+  crane_intensity: 1.5
+  berth_occupancy: 1.5
+  yard_occupancy: 1.5
+  vessel_length: 1.5
+  discharge_container_move_ratio: 1.5
+  estimated_cargo_operating_time: 1.5
+
+two:
+  voyage_number: MyString
+  total_container_move_count: 1
+  crane_intensity: 1.5
+  berth_occupancy: 1.5
+  yard_occupancy: 1.5
+  vessel_length: 1.5
+  discharge_container_move_ratio: 1.5
+  estimated_cargo_operating_time: 1.5
